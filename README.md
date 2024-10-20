@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/vanhieu.svg" width="1200" alt="trungquandev-official" />
+  <img src="vanhieu.svg" width="1200" alt="trungquandev-official" />
 </a>
 
 <br>
