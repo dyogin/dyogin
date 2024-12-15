@@ -38,9 +38,9 @@
 
 - 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **NextRouter**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **react, next, flutter**
+- 💬 Ask me about **react, next, flutter, .NET**
 
 - 📫 How to reach me **trinhhieu758@gmail.com**
  </div>
