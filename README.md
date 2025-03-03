@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/yukiharasensei/yukiharasensei/main/Qvbl.gif" align="center"  height="190" width="415"/>
  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hrNnZibGo1cG9ndHA4cGMyamRjcTlqeHk4OTJ3ZXJ3N250MjczcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btMCltyDvSgF92E/giphy.gif" align="center" height="190" width="415" />
 <p>
-  <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" style="height: auto;"></picture>
+  <picture><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBhNHRsOGUydzdodms0cGJmcmllODJ3dWNwanRkZG5icWZvZ3RwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UhGzw8ELQQapa/giphy.gif" width="50px" style="height: auto;"></picture>
   About me
   <br>
 <br>
