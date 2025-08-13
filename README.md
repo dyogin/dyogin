@@ -34,13 +34,13 @@
    
 - My name is Trinh Van Hieu
    
-- 🏫I am studying at DaiNam University
+- 🏫 I'm based in Ha Noi
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on vcs
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **AI, DS**
 
-- 💬 Ask me about **react, next, flutter, .NET**
+- 💬 Ask me about **.NET, Docker, K8s, Rust, Golang**
 
 - 📫 How to reach me **trinhhieu758@gmail.com**
  </div>
@@ -56,7 +56,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,typescript,javascript,react,nextjs,nodejs,express,java,dotnet,mongodb,flutter&perline=6)]()
+![Tech Stack](https://skillicons.dev/icons?i=cs,bun,aws,azure,cloudflare,cassandra,css,dart,discord,elasticsearch,dotnet,docker,django,express,fastapi,figma,firebase,flask,gitlab,githubactions,github,git,flutter,go,grafana,graphql,idea,htmx,html,hibernate,heroku,java,js,jenkins,kafka,kubernetes,linux,mongodb,mysql,nextjs,nuxtjs,nodejs,nginx,opencv,pinia,prometheus,powershell,postman,postgres,py,pytorch,rabbitmq,react,rider,remix,redux,redis,rust,sequelize,supabase,sklearn,tailwind,tensorflow,ts,ubuntu,vuetify,vue,yarn&theme=light&perline=15)
 
 
 <div align="center">
@@ -68,7 +68,9 @@
 </div>
     
 -----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieutvdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)]
+<div style="display: flex;">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyogin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
    
 
